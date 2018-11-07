@@ -1,0 +1,1 @@
+{"tables":{"table_name":{"celHead":{"column1":{"name":"column1","position":0,"type":"integer"},"column3":{"name":"column3","position":2,"type":"real"},"column2":{"name":"column2","position":1,"type":"string"}},"tableName":"table_name","tableRows":[{"celValues":{"column1":{"value":"10"},"column3":{"value":"1.2"},"column2":{"value":"value2"}}}]}}}
